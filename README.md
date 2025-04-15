@@ -1,1 +1,2 @@
 # Detection-of-Grammar-Using-Chomsky-Hierarchy
+The grammar classification is important to choose the type of machine so that we can solve the given expressions very easily by using that machine. In this project we have successfully created one webpage GUI which is able to detect the type of grammar by using the Chomsky Hierarchy. This project is capable to detect the type 0, type 1, type 2, type 3 grammars very easily and it also provides the name of that type of grammar.
